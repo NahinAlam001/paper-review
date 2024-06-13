@@ -1,6 +1,3 @@
-Sure! Here's a comprehensive `README.md` for your project:
-
-```markdown
 # UNet Image Segmentation
 
 This project implements an image segmentation model using the UNet architecture in PyTorch. The model is trained and evaluated on the ISIC 2018 challenge dataset for skin lesion segmentation.
@@ -175,5 +172,3 @@ This project is licensed under the MIT License.
    ```
 
 Replace `/path/to/your/dataset/` with the actual path where your ISIC 2018 dataset is stored.
-
-This `README.md` provides a clear overview of the project, instructions on how to set it up, and explanations of its components. Adjust the details as necessary to match your specific project setup.
